@@ -1,0 +1,1 @@
+Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|/dba.accdb;Persist Security Info=True;Jet OLEDB:Database Password=mjm2k4
