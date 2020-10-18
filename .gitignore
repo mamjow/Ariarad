@@ -222,6 +222,9 @@ UpgradeLog*.htm
 # Microsoft Fakes
 FakesAssemblies/
 
+#Database confgi
+*.txt
+
 # GhostDoc plugin setting file
 *.GhostDoc.xml
 
